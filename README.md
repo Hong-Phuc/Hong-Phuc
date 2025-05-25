@@ -1,6 +1,6 @@
 ![My Gif](./gif/My%20gif.gif)
 # 💫 About Me:
-🎓 I'm currently a student at **Saigon University**, expected to graduate in **2026**.  <br>💼 I'm also working as a **frontend/backend intern** at **Blue Sky Tech**, where I'm gaining hands-on experience with real-world projects.  <br>🌱 I'm passionate about **web development**, learning new technologies, and building meaningful applications.  <br>📂 Feel free to explore my repositories and follow my journey!
+🎓 I'm currently a student at **Saigon University**, expected to graduate in **2026**.  <br>💼 I'm also working as a **frontend intern** at **Blue Sky Tech**, where I'm gaining hands-on experience with real-world projects.  <br>🌱 I'm passionate about **web development**, learning new technologies, and building meaningful applications.  <br>📂 Feel free to explore my repositories and follow my journey!
 
 
 ## 🌐 Socials:
